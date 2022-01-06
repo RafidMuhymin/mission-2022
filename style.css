@@ -82,7 +82,7 @@ p {
 }
 
 #collaboration {
-  background-image: url(/images/shapes/shape-1.png);
+  background-image: url(images/shapes/shape-1.png);
   background-size: 15rem 15rem;
   background-position: 2.5rem center;
   background-repeat: no-repeat;
@@ -100,7 +100,7 @@ p {
 
 #community {
   margin: -4rem auto;
-  background-image: url(/images/shapes/shape-1.png);
+  background-image: url(images/shapes/shape-1.png);
   background-size: 15rem 15rem;
   background-position: 97.5% bottom;
   background-repeat: no-repeat;
@@ -117,8 +117,8 @@ p {
 }
 
 #oss {
-  background-image: url(/images/shapes/shape-5.png),
-    url(/images/shapes/shape-5.png);
+  background-image: url(images/shapes/shape-5.png),
+    url(images/shapes/shape-5.png);
   background-size: 15rem 15rem;
   background-position: 97.5% 60%, 2.5% 60%;
   background-repeat: no-repeat;
